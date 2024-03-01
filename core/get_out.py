@@ -12,4 +12,4 @@ def get_ot(first_key):
   		api_name="/process"
   )
   clear_output()
-  return client
+  return result
